@@ -1,10 +1,5 @@
-### Olá 👋
-
 # Freelancer WebDeveloper
-> HTML5 <br>
-> CSS3 <br>
-> Javascript <br>
-> Node.js <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinssdev&show_icons=true&theme=algolia)
 
 
